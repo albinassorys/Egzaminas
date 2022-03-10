@@ -56,6 +56,12 @@ td:nth-child(n+2){text-align: right;}
 .name .eth {font-size: medium; color: black;}
 .num .left {font-size: small; color: rgb(129, 129, 129);}
 
-.lauching2 {background-image: url(assets/upsell-footer-image.svg); background-repeat: no-repeat; padding-bottom: 100px;}
+footer {padding: 1rem;}
+
+.launching2 {background-image: url(assets/upsell-footer-image.svg); background-repeat: no-repeat; background-position: right bottom; padding-bottom: 100px; height: 400px;}
+
+hr {opacity: 70%; height:1px; color: gray;}
+
+.launching2 > h1, p {width:50%;}
 
 
